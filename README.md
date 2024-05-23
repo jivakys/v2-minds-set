@@ -14,4 +14,4 @@ JavaScript: Logic for drawing shapes and handling user interactions.
 Google Fonts: For custom font styling.
 
 ### Deployed link
-Netlify : [https://664f2adcb1f65a007ef4c9d4--storied-truffle-0816dd.netlify.app/] https://664f2adcb1f65a007ef4c9d4--storied-truffle-0816dd.netlify.app/
+Netlify : https://664f2adcb1f65a007ef4c9d4--storied-truffle-0816dd.netlify.app/
