@@ -1,0 +1,73 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+#shapeForm {
+  width: 80%;
+  margin: auto;
+}
+
+h1,
+label {
+  font-weight: 900;
+  color: brown;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+select,
+input:hover {
+  cursor: pointer;
+}
+
+option {
+  font-family: "Poppins", sans-serif;
+}
+
+button {
+  background-color: rgb(228, 214, 214);
+  border-radius: 3px;
+  border: 1px solid brown;
+  box-sizing: border-box;
+  color: rgb(192, 103, 103);
+  cursor: pointer;
+  font-size: large;
+  padding: 10px;
+  display: block;
+  margin: auto;
+}
+
+.button:hover,
+.button:focus {
+  background-color: rgb(224, 156, 156);
+  color: brown;
+}
+
+#output {
+  width: 90%;
+  padding: 20px;
+  font-size: larger;
+  margin: auto;
+  margin-top: 20px;
+  white-space: pre-wrap;
+  border: 1px solid gray;
+  background-color: rgb(203, 227, 237);
+  border-radius: 5px;
+  text-align: left;
+}
